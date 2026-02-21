@@ -126,10 +126,6 @@ Some popular Flask extensions include:
 
 This project is open-source and free to use.
 
----
 
-If you want, I can also create:
 
-* A more advanced README
-* A README for a REST API project
-* Or a Flask + MySQL project README 😊
+
